@@ -28,4 +28,4 @@ CSS \
 python \
 react
 
-Click over here to -> [Try it out!](www-student.cse.buffalo.edu)
+Click over here to -> [Try it out!](https://www-student.cse.buffalo.edu/~holdenen/#/landing)
