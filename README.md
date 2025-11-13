@@ -28,4 +28,10 @@ CSS \
 python \
 react
 
+Login with creditials: \
+Username: a \
+Password: a 
+
+Or Create an account...it's up to you!
+
 Click over here to -> [Try it out!](https://www-student.cse.buffalo.edu/~holdenen/#/landing)
