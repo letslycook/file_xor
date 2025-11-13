@@ -1,4 +1,4 @@
-This project Won 3rd Place at UB Hacking Fall 2025 for Best General Hack.
+This project Won 3rd Place at UB Hacking Fall 2025 for Best General Hack with users ieatmotherboards, chadsingo, and letslycook \
 Link to Devpost is [here](https://devpost.com/software/file_xor)
 
 Inspiration: \
